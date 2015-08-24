@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Arrays_Indexes_task1", "HW_Arrays_Indexes\HW_Arrays_Indexes_task1.csproj", "{64FE1ACE-A30F-4961-8AE3-B455A5588D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Arrays_Indexes_task2", "HW_Arrays_Indexes_task2\HW_Arrays_Indexes_task2.csproj", "{3E9F0167-8D92-4F62-BBD4-7CE706A47AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Arrays_Indexes_task1_test", "HW_Arrays_Indexes_task1_test\HW_Arrays_Indexes_task1_test.csproj", "{DF7ACE6F-A7BD-4FDF-9FA6-37AED5A0275F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FE1ACE-A30F-4961-8AE3-B455A5588D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FE1ACE-A30F-4961-8AE3-B455A5588D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FE1ACE-A30F-4961-8AE3-B455A5588D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FE1ACE-A30F-4961-8AE3-B455A5588D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9F0167-8D92-4F62-BBD4-7CE706A47AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9F0167-8D92-4F62-BBD4-7CE706A47AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9F0167-8D92-4F62-BBD4-7CE706A47AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9F0167-8D92-4F62-BBD4-7CE706A47AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7ACE6F-A7BD-4FDF-9FA6-37AED5A0275F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7ACE6F-A7BD-4FDF-9FA6-37AED5A0275F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7ACE6F-A7BD-4FDF-9FA6-37AED5A0275F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7ACE6F-A7BD-4FDF-9FA6-37AED5A0275F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
